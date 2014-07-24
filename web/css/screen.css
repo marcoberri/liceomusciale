@@ -1,0 +1,41 @@
+body {font:12px Tahoma,Arial,Helvetica,sans-serif;}
+body {background:#ffeecc url("/liceomusicale/images/bck_body.jpg") no-repeat center top;margin:0;padding:0;text-align:center;}
+a {color:#369;}
+a:hover {color:#39f;}
+div.main {text-align:left;margin:70px auto auto auto;width:720px;background:url("/liceomusicale/images/bck_main.gif") repeat-y left top;overflow:auto;height:100%;position:relative;}
+div.main h1.header {background:url("/liceomusicale/images/header.jpg") no-repeat left top;width:720px;height:111px;margin:0;padding:0;}
+div.main h1.header a {display:block;width:720px;height:111px;}
+div.main h1.header span {display:none;}
+div.navigation {width:180px;padding-bottom:110px;float:left;}
+div.navigation h2, div.navigation h2 a,div.navigation h2 a:hover {display:block;text-decoration:none;margin:0;padding:0;width:180px;height:16px;background:url("/liceomusicale/images/link_common.gif") no-repeat left top;color:#fff;text-align:center;font-size:10px;text-transform:uppercase;}
+div.navigation h2.contattaci,div.navigation h2.contattaci a, div.navigation h2.contattaci a:hover {background:url("/liceomusicale/images/link_contattaci.gif") no-repeat left top;}
+div.navigation ul {list-style-image:url("/liceomusicale/images/indexer.gif");margin-left:10px;padding-left:10px;margin-top:4px;margin-bottom:20px;font-size:11px;}
+div.navigation ul a,div.navigation ul a:visited {color:#666;text-decoration:none;}
+div.navigation ul a:hover {color:#900;text-decoration:underline;}
+div.contents {width:540px;float:right;}
+div.footer {clear:both;float:none;background:#999;color:#fff;text-align:right;height:30px;line-height:30px;background:#999 url("/liceomusicale/images/footerinstruments_bottom.gif") no-repeat left top;font-size:10px;}
+div.footer span {margin-right:5px;}
+div.footerinstruments {width:180px;height:80px;position:absolute;bottom:29px;left:0px;background:url("/liceomusicale/images/footerinstruments_top.gif") no-repeat left bottom;}
+
+h1.title {font-size:13px;color:#960;padding:13px 0 0 40px;margin:10px 0 0 0;height:44px;background:url("/liceomusicale/images/title.gif") no-repeat left top;}
+div.contents div.box {margin:10px 10px 10px 40px;}
+div.contents div.bacheca {background:url("/liceomusicale/images/bacheca.gif") repeat left top;border:4px solid #fc6;}
+div.banners {text-align:center;margin:10px auto;}
+
+/*news area*/
+div.bacheca div.news {margin:6px;padding:5px;background:#fff url("/liceomusicale/images/newstitle.jpg") no-repeat left top;overflow:auto;}
+div.bacheca h1.newstitle {margin:10px 0;padding:0;text-align:center;color:#666;font-size:13px;}
+div.bacheca h1.newstitle a {text-decoration:none;color:#666;}
+div.bacheca h1.newstitle a:hover {text-decoration:underline;color:#600;}
+
+/*contacts area*/
+form#contactform {width:450px;margin-left:30px;text-align:right;line-height:30px;}
+form#contactform input.inp {width:300px;border:1px solid #600;}
+form#contactform textarea.inp, form#contactform div.inp  {margin:0 auto;width:300px;height:50px;overflow:auto;border:1px solid #600;margin-top:-6px;line-height:normal;text-align:left;}
+form#contactform input.sub {background:#c66;color:#fff;border:1px solid #666;margin-top:5px;}
+
+.floatedleft {float:left;}
+.floatedright {float:right;}
+.margin5 {margin:5px;}
+.cboth {clear:both;float:none;}
+
