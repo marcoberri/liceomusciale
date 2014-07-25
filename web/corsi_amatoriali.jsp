@@ -7,22 +7,23 @@
 </head>
 <body>
 
+
 	<div class="main">
 
 		<%@include file="includes/header.jsp"%>
 		<%@include file="includes/left.jsp"%>
 
-	<div class="contents">
-		<h1 class="title">Strambino (TO)</h1>
+			<div class="contents">
+		<h1 class="title">Materie Complementari</h1>
 		<div class="box">
 					
-		<p> </p>
-<p>La sede di Strambino del Liceo Musicale &quot;Citt&agrave; di Santhi&agrave;&quot; &egrave; ospite dei locali della Scuola Media, in Piazza A. Moro.<br /></p>
-<br />Recapiti Segreteria<br />
-<p>Il Luned&igrave; dalle 15 alle 19.<br /></p>
-<br />
-<p>Cel. 3331266288<br /></p>
-<p>&nbsp;</p>
+		<p class="MsoBodyText" style="text-align: justify; text-indent: 35.4pt;">I corsi tenuti da docenti titolati e qualificati<span style="">  </span>o da esperti del settore a cui &egrave; possibile accedere sono:<span style="text-decoration: underline;"><br /></span></p>
+<ul>
+    <li>Teoria e solfeggio</li>
+    <li>Armonia</li>
+    <li>Storia della musica</li>
+    <li>Pianoforte complementare</li>
+</ul>
 		</div>
 	</div>
 
@@ -30,7 +31,6 @@
 		<%@include file="includes/ga.jsp"%>
 
 
-
-	</div>
+</div>
 </body>
 </html>

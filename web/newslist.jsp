@@ -1,11 +1,10 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 
 <html>
 <head>
-		<title>Associazione Liceo Musicale SanthiÃ </title>
-	<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
-	<link rel="stylesheet" href="/css/screen.css" type="text/css">
-	<meta name="verify-v1" content="r8XFjBnMT+SWjuq1LQhVl+loD7HB3g88NTe943gsAyg=" /> </head>
+<%@include file="includes/head.jsp"%>
+</head>
 
 <body>
 <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
@@ -17,7 +16,7 @@ urchinTracker();
 
 <div class="main">
 	
-	<h1 class="header"><a href="http://www.assliceomusicale.it"><span>Associazione Liceo Musicale SanthiÃ </span></a></h1>
+	<h1 class="header"><a href="http://www.assliceomusicale.it"><span>Associazione Liceo Musicale SanthiÃÂ </span></a></h1>
 	<div class="navigation">
 		<h2>corsi</h2>
 		<ul>
@@ -32,7 +31,7 @@ urchinTracker();
 								<strong>20.06.2014</strong> - L'incanto della Voce
 							</a></li>
 														<li><a href="/liceomusicale_news/news-17946.view">
-								<strong>26.02.2014</strong> - Concorso Internazionale Rotary per la Musica: la data del Concorso è stata rinviata
+								<strong>26.02.2014</strong> - Concorso Internazionale Rotary per la Musica: la data del Concorso Ã¨ stata rinviata
 							</a></li>
 														<li><a href="/liceomusicale_news/news-17945.view">
 								<strong>07.02.2014</strong> - Computer, web e musica, primi passi
@@ -62,7 +61,7 @@ urchinTracker();
 			<a href="news-17947.view">20.06.2014 L'incanto della Voce</a>		
 		</div>
 				<div class="box">
-			<a href="news-17946.view">26.02.2014 Concorso Internazionale Rotary per la Musica: la data del Concorso è stata rinviata</a>		
+			<a href="news-17946.view">26.02.2014 Concorso Internazionale Rotary per la Musica: la data del Concorso Ã¨ stata rinviata</a>		
 		</div>
 				<div class="box">
 			<a href="news-17945.view">07.02.2014 Computer, web e musica, primi passi</a>		
@@ -98,7 +97,7 @@ urchinTracker();
 			<a href="news-17903.view">07.07.2012 VOCAL WORKSHOP</a>		
 		</div>
 				<div class="box">
-			<a href="news-17907.view">30.06.2012 Festa di Inizio Estate - Santhià</a>		
+			<a href="news-17907.view">30.06.2012 Festa di Inizio Estate - SanthiÃ </a>		
 		</div>
 				<div class="box">
 			<a href="news-17905.view">17.06.2012 L'incanto della Voce . Opera e dintorini</a>		
@@ -110,13 +109,13 @@ urchinTracker();
 			<a href="news-17898.view">13.04.2012 Concorso Rotary per la Musica 7a Edizione 2012</a>		
 		</div>
 				<div class="box">
-			<a href="news-17887.view">14.06.2011 Serata musicale a Santhià</a>		
+			<a href="news-17887.view">14.06.2011 Serata musicale a SanthiÃ </a>		
 		</div>
 				<div class="box">
 			<a href="news-17885.view">15.03.2011 Concorso Rotary per la Musica 6a Edizione</a>		
 		</div>
 				<div class="box">
-			<a href="news-17878.view">16.10.2010 Concerto di Musica Sacra - Santhià</a>		
+			<a href="news-17878.view">16.10.2010 Concerto di Musica Sacra - SanthiÃ </a>		
 		</div>
 				<div class="box">
 			<a href="news-17875.view">08.03.2010 Concorso Rotary per la Musica 2010</a>		
@@ -216,9 +215,11 @@ urchinTracker();
 		</div>
 			</div>
 
-	<div class="footer"><span>&copy; 2007 Associazione Liceo Musicale Citt&agrave; di Santhi&agrave; c.f. 93002240021. Tutti i diritti riservati. <a href="http://marcoberri.blogspot.com">credits</a></span></div>
-	<div class="footerinstruments"></div>
 
-</div>
+		<%@include file="includes/footer.jsp"%>
+		<%@include file="includes/ga.jsp"%>
+
+
+	</div>
 </body>
 </html>

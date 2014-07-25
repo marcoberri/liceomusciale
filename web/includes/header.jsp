@@ -1,2 +1,2 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
-<h1 class="header"><a href="http://www.assliceomusicale.it"><span>Associazione Liceo Musicale Santhi&agrave;</span></a></h1>
+<h1 class="header"><a href="${pageContext.request.contextPath}/"><span>Associazione Liceo Musicale Santhi&agrave;</span></a></h1>
