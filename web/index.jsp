@@ -29,7 +29,7 @@
 						href="${pageContext.request.contextPath}/news.jsp?id=17943"><img
 						src="${pageContext.request.contextPath}/storage/first/uploadfile/news/17934/1/1/news_file/definitivo_volantini_musical.jpg"
 						height="300" alt="" border="0" /></a> <a style="margin-left: 10px;"
-						href="${pageContext.request.contextPath}/news.jsp?id=17943"><img
+						href="${pageContext.request.contextPath}/news.jsp?id=17932"><img
 						src="${pageContext.request.contextPath}/storage/first/uploadfile/news/17932/1/1/news_file/definitivo_volantini_music_for_children_rid.jpg"
 						height="300" alt="" border="0" /></a>
 				</div>
