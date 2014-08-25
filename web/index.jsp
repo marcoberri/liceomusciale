@@ -24,7 +24,7 @@
 						width="468" height="60" alt="" border="0" /></a>
 				</div>
 
-				<div class="banners">
+				<!-- div class="banners">
 					<a
 						href="${pageContext.request.contextPath}/news.jsp?id=17943"><img
 						src="${pageContext.request.contextPath}/storage/first/uploadfile/news/17934/1/1/news_file/definitivo_volantini_musical.jpg"
@@ -32,7 +32,7 @@
 						href="${pageContext.request.contextPath}/news.jsp?id=17932"><img
 						src="${pageContext.request.contextPath}/storage/first/uploadfile/news/17932/1/1/news_file/definitivo_volantini_music_for_children_rid.jpg"
 						height="300" alt="" border="0" /></a>
-				</div>
+				</div-->
 				<div class="banners">
 
 					<!-- Facebook Badge START -->

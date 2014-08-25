@@ -2,8 +2,28 @@
 
 <events>
 
+	<event id="5001">
+		<title>Aperte le iscrizioni per l'anno 2014/2015</title>
+		<date>25.08.2014</date>
+		<body><![CDATA[
+				<br/><br/>
+						Sono aperte le iscrizioni per l'anno 2014/2015, presso le nostre sedi.<br/>
+						Per contatti <a href="http://www.assliceomusicale.it/contatti.jsp">3331266288</a>
+				<br/><br/>	
+		
+		]]></body>
+	</event>
 
-
+	<event id="5000">
+		<title>Concorso Rotary per la musica, aperte le iscrizioni</title>
+		<date>25.08.2014</date>
+		<body><![CDATA[
+			<br/><br/>
+					<div>&nbsp;</div>  <div>&nbsp;</div><div style="color: #222222; font-family: HelveticaNeue, 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; font-size: 16px; background-color: transparent">Aperte le Iscrizioni al Concorso Internazionale Rotary per la Musica</div>  <div>  Il Liceo Musicale di Santhia' e il Rotary Club &quot;Viverone Lago&quot;  organizzano IX Edizione del Concorso Internazionale Rotary per la Musica 2014 </div>  <div>&nbsp;</div> <div>&nbsp;</div>   <div><a href="https://app.box.com/s/o9z42haf4fzbze7nlkzd">Scarica il Regolamento</a><br /><br /> <div>&nbsp;</div> <object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0" width="466" height="400"><param name="movie" value="https://app.box.com/embed/92ixmptw1zbifdb.swf" /><param name="quality" value="high" /><param name="menu" value="false" /><param name="wmode" value="transparent" /><embed src="https://app.box.com/embed/92ixmptw1zbifdb.swf" wmode="transparent" quality="high" menu="false" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="466" height="400"></embed></object> <div><br /></div>   <div>&nbsp;</div><div>&nbsp;</div> <div><a href="https://app.box.com/s/4ji9ngbxwfgxu5cirr26">Scarica il Modulo di Iscrizione</a><br /><br /><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0" width="466" height="400"><param name="movie" value="https://app.box.com/embed/k43esyhw54sku0q.swf" /><param name="quality" value="high" /><param name="menu" value="false" /><param name="wmode" value="transparent" /><embed src="https://app.box.com/embed/k43esyhw54sku0q.swf" wmode="transparent" quality="high" menu="false" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="466" height="400"></embed></object></div></div>
+			<br/><br/>	
+		
+		]]></body>
+	</event>
 
 
 	<event id="17947">
@@ -52,7 +72,8 @@
 
 	<event id="17943">
 		<title>Concorso Internazionale Rotary per la Musica IX Edizione - 2014
-			- Regolamento e Iscrizioni</title>
+			- Regolamento e Iscrizioni
+		</title>
 		<date>17.11.2013</date>
 		<body><![CDATA[
 								
@@ -109,7 +130,8 @@
 
 	<event id="17929">
 		<title>Concorso Internazionale Rotary per la Musica VIII Edizione -
-			Regolamento e Iscrizioni</title>
+			Regolamento e Iscrizioni
+		</title>
 		<date>28.03.2013 </date>
 		<body><![CDATA[
 <br/><br/>
@@ -128,9 +150,9 @@
 <br/><br/>	]]></body>
 
 	</event>
-	
-	
-		<event id="17924">
+
+
+	<event id="17924">
 		<title><![CDATA[Corso di Vocalit&agrave; per Coristi]]></title>
 		<date>01.02.2013</date>
 		<body><![CDATA[
@@ -145,7 +167,7 @@
 	</event>
 
 
-		<event id="17914">
+	<event id="17914">
 		<title><![CDATA[Riki Massini - Fingerpicking]]></title>
 		<date>01.12.2012</date>
 		<body><![CDATA[
@@ -155,10 +177,10 @@
 			]]></body>
 
 	</event>
-	
-	
-	
-		<event id="17912">
+
+
+
+	<event id="17912">
 		<title><![CDATA[Vocal Workshop Novembre 2012]]></title>
 		<date>02.11.2012</date>
 		<body><![CDATA[
@@ -168,8 +190,8 @@
 			]]></body>
 
 	</event>
-		
-		<event id="17907">
+
+	<event id="17907">
 		<title><![CDATA[Festa di Inizio Estate - Santhià]]></title>
 		<date>30.06.2012</date>
 		<body><![CDATA[
@@ -178,11 +200,11 @@
 <br/><br/>
 			]]></body>
 
-	</event>		
-	
-	
-	
-		<event id="17905">
+	</event>
+
+
+
+	<event id="17905">
 		<title><![CDATA[L'incanto della Voce . Opera e dintorini]]></title>
 		<date>17.06.2012</date>
 		<body><![CDATA[
@@ -191,10 +213,10 @@
 <br/><br/>
 			]]></body>
 
-	</event>	
-		
-		
-		<event id="17904">
+	</event>
+
+
+	<event id="17904">
 		<title><![CDATA[Saggio di fine anno accademico]]></title>
 		<date>14.06.2012</date>
 		<body><![CDATA[
@@ -203,6 +225,17 @@
 <br/><br/>
 			]]></body>
 
-	</event>	
-			
+	</event>
+
+
+	<event id="17903">
+		<title><![CDATA[VOCAL WORKSHOP]]></title>
+		<date>07.07.2012</date>
+		<body><![CDATA[
+			<br/><br/>
+					LICEO MUSICALE CITTA&rsquo; DI SANTHIA&rsquo;<br /> Via Collodi 3, Santhi&agrave; <br /> www.assliceomusicale.it<br /> VOCAL WORKSHOP<br /> Laboratorio rivolto a tutti coloro che desiderano approfondire o avvicinarsi al canto<br /> <br /> Sabato 7 e domenica 8 luglio 2012<br /> <br /> Docenti: M&deg; Emanuela Elena Prelle &ndash; M&deg; Giulia Musuruane<br /> Per informazioni e adesioni 3357786003 &ndash; 3391505827<br /> Iscrizioni presso la sede del Liceo Musicale <br /> nei giorni 19 e 26 giugno dalle 17 alle 19<br /> <br /> <br />  Locandina <a href="https://www.box.com/s/2bfab231ea09e58afe5c">Scarica</a>
+			<br/><br/>
+			]]></body>
+
+	</event>
 </events>

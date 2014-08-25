@@ -16,10 +16,10 @@
 	<ul>
 
 		<li><a
-			href="${pageContext.request.contextPath}/corsi_amatoriali.jsp">Professionali
+			href="${pageContext.request.contextPath}/corsi_complementari.jsp">Professionali
 				e Amatoriali</a></li>
 		<li><a
-			href="${pageContext.request.contextPath}/corsi_complementari.jsp">Materie
+			href="${pageContext.request.contextPath}/corsi_amatoriali.jsp">Materie
 				Complementari</a></li>
 
 	</ul>
