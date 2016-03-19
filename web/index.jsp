@@ -17,12 +17,30 @@
 		<div class="contents">
 			<h1 class="title">Home Page</h1>
 			<div class="box">
+
+
 				<div class="banners">
+
+
+
+
+
+
+
+					<a
+						href="${pageContext.request.contextPath}/news.jsp?id=5006">
+
+<img src="https://farm2.staticflickr.com/1448/25903961845_79a45cccf7_n.jpg" width="231" height="320" alt="Fuori la voce 2016">
+</a>
+				</div>
+
+
+				<!--div class="banners">
 					<a
 						href="${pageContext.request.contextPath}/news.jsp?id=17943"><img
 						src="${pageContext.request.contextPath}/storage/first/uploadfile/page/16291/1/1/body_image/1.jpg"
 						width="468" height="60" alt="" border="0" /></a>
-				</div>
+				</div-->
 
 				<!-- div class="banners">
 					<a
@@ -96,12 +114,12 @@
 				</p>
 				<p>&nbsp;</p>
 
-				<div class="banners">
+				<!--div class="banners">
 					<a
 						href="${pageContext.request.contextPath}/news.jsp?id=17943"><img
 						src="${pageContext.request.contextPath}/storage/first/uploadfile/page/16291/1/1/body_image/1.jpg"
 						width="468" height="60" alt="" border="0" /></a>
-				</div>
+				</div-->
 
 			</div>
 		</div>
